@@ -1,0 +1,12 @@
+.post-box {
+  border: 1px solid #e2cfcf;
+  border-collapse: collapse;
+  border-radius: 4px;
+  list-style: none;
+  width: 50%;
+  padding: .5rem;
+  margin-left: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
